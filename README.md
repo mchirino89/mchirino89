@@ -20,14 +20,10 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 - [MauriNet](https://github.com/mchirino89/MauriNet): Wrapper for Swift's network handling
 - [MauriKit](https://github.com/mchirino89/MauriKit): Helpers and wrappers for code only UI iOS development in Swift
 
-![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciochirino&count_private=true&theme=Gradient&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciochirino&layout=compact&theme=Gradient&langs_count=1)]
-(https://github.com/mauriciochirino/github-readme-stats)
-
-
 ![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchirino89&count_private=true&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchirino89&layout=compact&theme=dark&hide=objective-c)]
-(https://github.com/mchirino89/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchirino89&layout=compact&theme=dark&hide=objective-c)
+
+![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciochirino&count_private=true&theme=Gradient&show_icons=true&hide=stars,issues)
 
 ![5](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
