@@ -57,7 +57,7 @@ I also like to contribute back to the awesome Stackoverflow's community whenever
 - 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/mauriciochirino/?locale=en_US)
 - ⌨️ [GeekingWithMauri](https://geekingwithmauri.com)
 
-Need a copy of my résumé? No problem: [get it here](https://geekingwithmauri.com/assets/resources/MauricioChirinoCV.pdf).
+Need a copy of my résumé? No problem: <a href="/assets/resources/MauricioChirinoCV.pdf" download="MauricioChirinoCV">get it here.</a>
 
 ## Want to contribute/donate/help me keep going?
 
