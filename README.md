@@ -22,15 +22,19 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 
 ### 📝 Writing
 
-I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com). Below links to my latest articles:
+I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-I also like to contribute back to the awesome Stackoverflow's community whenever possible 
+I also like to contribute back to the awesome [Stackoverflow's community](https://stackoverflow.com/users/2376336/mauricio-chirino?tab=profile) whenever possible 
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+### Github
+
+After family responsibilities and work, I like keeping myself busy coding 🤓
 
 <p>
     <img align="left" 
