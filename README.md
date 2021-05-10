@@ -25,6 +25,11 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
 
 <!-- BLOG:START -->
+- [Documentation in practice for Swift](https://geekingwithmauri.com/swift/documentation-in-practice.html)
+- [Think before you code](https://geekingwithmauri.com/work/thinkingBeforeCoding.html)
+- [Building a mock server using Swift’s Vapor](https://geekingwithmauri.com/swift/serverSideVapor.html)
+- [A leap of faith? Incursion into mobile development](https://geekingwithmauri.com/work/mobileDevelopment.html)
+- [📖 Books I’ve read: The Pragmatic Programmer (by David Thomas &amp; Andrew Hunt)](https://geekingwithmauri.com/books/pragmaticProgrammer.html)
 <!-- BLOG:END -->
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
