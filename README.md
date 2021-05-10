@@ -24,8 +24,12 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 
 I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->$randomEmoji [Screenshots para tus tests](https://medium.com/peya-tech/screenshots-para-tus-tests-85598e4c5c4e?source=rss-8d0bd43333be------2) - Thursday, April 15, 2021 
+ $randomEmoji [Books I’ve read: The Pragmatic Programmer (by David Thomas & Andrew Hunt)](https://mchirino89.medium.com/books-ive-read-the-pragmatic-programmer-by-david-thomas-andrew-hunt-ec493738b6fa?source=rss-8d0bd43333be------2) - Sunday, January 31, 2021 
+ $randomEmoji [Acing(ish) your iOS interview](https://mchirino89.medium.com/acing-ish-your-ios-interview-3b915e3b23d7?source=rss-8d0bd43333be------2) - Tuesday, December 22, 2020 
+ $randomEmoji [5 key points in enjoying writing code for a living](https://mchirino89.medium.com/5-key-points-in-enjoying-writing-code-for-a-living-58797faaa368?source=rss-8d0bd43333be------2) - Sunday, November 22, 2020 
+ $randomEmoji [On testing 3rd party frameworks without losing your hair](https://mchirino89.medium.com/on-testing-3rd-party-frameworks-without-losing-your-hair-367ef8bfb56b?source=rss-8d0bd43333be------2) - Monday, November 2, 2020 
+ <!-- BLOG-POST-LIST:END -->
 
 I also like to contribute back to the awesome [Stackoverflow's community](https://stackoverflow.com/users/2376336/mauricio-chirino?tab=profile) whenever possible 
 
