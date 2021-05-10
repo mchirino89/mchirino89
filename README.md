@@ -25,7 +25,7 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
 
 <!-- BLOG-POST-LIST:START -->
- <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 I also like to contribute back to the awesome [Stackoverflow's community](https://stackoverflow.com/users/2376336/mauricio-chirino?tab=profile) whenever possible 
 
@@ -58,13 +58,15 @@ After family responsibilities and work, I like keeping myself busy coding 🤓
 </p>
 
 ## 📫 How to reach me: 
-
+ 
 - <a href="https://twitter.com/mchirino89" target="blank">
         <img src="https://img.shields.io/twitter/follow/mchirino89?logo=twitter&style=for-the-badge" 
         alt="mchirino89" />
-    </a>
-- 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/mauriciochirino/?locale=en_US)
-- ⌨️ [GeekingWithMauri](https://geekingwithmauri.com)
+  </a>
+
+- [![Linkedin: mauriciochirino](https://img.shields.io/badge/-Mauricio%20Chirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciochirino/)](https://www.linkedin.com/in/mauriciochirino/)
+
+- [![Jekyll: geekingwithmauri.com](https://img.shields.io/badge/-Geeking%20with%20Mauri-red?style=flat-square&logo=Jekyll&logoColor=white&link=https://geekingwithmauri.com)](https://geekingwithmauri.com)
 
 Need a copy of my résumé? No problem: <a href="https://geekingwithmauri.com/assets/resources/MauricioChirinoCV.pdf" download="MauricioChirinoCV">get it here.</a>
 
