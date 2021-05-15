@@ -42,11 +42,11 @@ I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes o
 I also like to contribute back to the awesome [Stackoverflow's community](https://stackoverflow.com/users/2376336/mauricio-chirino?tab=profile) whenever possible 
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Mauricio Chirino for Detect UIScrollview bottom reached](https://stackoverflow.com/questions/20583882/detect-uiscrollview-bottom-reached/67549419#67549419)
 - [Answer by Mauricio Chirino for Write unit test in swift package manager for API call](https://stackoverflow.com/questions/62129318/write-unit-test-in-swift-package-manager-for-api-call/65161977#65161977)
 - [Answer by Mauricio Chirino for UIProgressView is not updating, but the title is](https://stackoverflow.com/questions/55007207/uiprogressview-is-not-updating-but-the-title-is/55007846#55007846)
 - [Answer by Mauricio Chirino for Why does my app not display the alert to ask to access user's location?](https://stackoverflow.com/questions/55004779/why-does-my-app-not-display-the-alert-to-ask-to-access-users-location/55007753#55007753)
 - [Answer by Mauricio Chirino for Swift: Cannot invoke 'filter' with an argument list of type '((AnyObject) throws -> Bool)'](https://stackoverflow.com/questions/40902274/swift-cannot-invoke-filter-with-an-argument-list-of-type-anyobject-throws/54097170#54097170)
-- [Answer by Mauricio Chirino for Removing duplicate elements from an array in Swift](https://stackoverflow.com/questions/25738817/removing-duplicate-elements-from-an-array-in-swift/49697694#49697694)
 <!-- STACKOVERFLOW:END -->
 
 ### Github
