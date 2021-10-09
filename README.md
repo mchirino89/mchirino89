@@ -22,7 +22,7 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 
 ### 📝 Writing
 
-I post regularly on [GeekingwithMauri.com](geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
+I post regularly on [GeekingwithMauri.com](https://geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
 
 <!-- BLOG:START -->
 - [Unit tests are not silver bullets](https://geekingwithmauri.com/work/testing.html)
