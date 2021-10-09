@@ -16,9 +16,9 @@ In my spare time I like building POCs and libraries for iOS and Swift developmen
 
 ### 🛠 Tools
 
-- [MauriUtils](https://github.com/mchirino89/MauriUtils): A set of canned helpers for Swift's rapid development and testing
+- [MauriUtils](https://github.com/geekingwithmauri/MauriUtils): A set of canned helpers for Swift's rapid development and testing
 - [MauriNet](https://github.com/geekingwithmauri/MauriNet): Wrapper for Swift's network handling
-- [MauriKit](https://github.com/mchirino89/MauriKit): Helpers and wrappers for code only UI iOS development in Swift
+- [MauriKit](https://github.com/geekingwithmauri/MauriKit): Helpers and wrappers for code only UI iOS development in Swift
 
 ### 📝 Writing
 
