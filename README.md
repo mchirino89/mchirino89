@@ -28,7 +28,7 @@ I post regularly on [GeekingwithMauri.com](https://geekingwithmauri.com) and som
 - [Guarantee localization with SwitfUI](https://geekingwithmauri.com/swift/localizationWithSwiftUI.html)
 - [Unit tests are not silver bullets](https://geekingwithmauri.com/work/testing.html)
 - [What refactoring is not](https://geekingwithmauri.com/work/refactoring.html)
-- [📖 Books I’ve read: Driving Technical Change (by Terrence Ryan)](https://geekingwithmauri.com/books/drivingTechChange.html)
+- [📖 Books I’ve read: Driving Technical Change &lpar;by Terrence Ryan&rpar;](https://geekingwithmauri.com/books/drivingTechChange.html)
 - [Skills for succeeding on software development](https://geekingwithmauri.com/work/succeedingAtDevelopment.html)
 <!-- BLOG:END -->
 <!-- MEDIUM:START -->
