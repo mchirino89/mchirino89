@@ -33,8 +33,8 @@ I post regularly on [GeekingwithMauri.com](https://geekingwithmauri.com) and som
 <!-- BLOG:END -->
 <!-- MEDIUM:START -->
 - [Screenshots para tus tests](https://medium.com/peya-tech/screenshots-para-tus-tests-85598e4c5c4e?source=rss-8d0bd43333be------2)
-- [Books I’ve read: The Pragmatic Programmer (by David Thomas & Andrew Hunt)](https://mchirino89.medium.com/books-ive-read-the-pragmatic-programmer-by-david-thomas-andrew-hunt-ec493738b6fa?source=rss-8d0bd43333be------2)
-- [Acing(ish) your iOS interview](https://mchirino89.medium.com/acing-ish-your-ios-interview-3b915e3b23d7?source=rss-8d0bd43333be------2)
+- [Books I’ve read: The Pragmatic Programmer &lpar;by David Thomas &amp; Andrew Hunt&rpar;](https://mchirino89.medium.com/books-ive-read-the-pragmatic-programmer-by-david-thomas-andrew-hunt-ec493738b6fa?source=rss-8d0bd43333be------2)
+- [Acing&lpar;ish&rpar; your iOS interview](https://mchirino89.medium.com/acing-ish-your-ios-interview-3b915e3b23d7?source=rss-8d0bd43333be------2)
 - [5 key points in enjoying writing code for a living](https://mchirino89.medium.com/5-key-points-in-enjoying-writing-code-for-a-living-58797faaa368?source=rss-8d0bd43333be------2)
 - [On testing 3rd party frameworks without losing your hair](https://mchirino89.medium.com/on-testing-3rd-party-frameworks-without-losing-your-hair-367ef8bfb56b?source=rss-8d0bd43333be------2)
 <!-- MEDIUM:END -->
