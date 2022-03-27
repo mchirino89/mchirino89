@@ -91,9 +91,9 @@ Need a copy of my résumé? No problem: <a href="https://geekingwithmauri.com/as
 
 <a href="https://www.buymeacoffee.com/maurigeek"> 
     <img align="left" 
-    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-    height="50" 
-    width="210" 
+    src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+    height="35" 
+    width="150" 
     alt="buy me a coffee" />
 </a>
 <a href="https://www.patreon.com/bePatron?u=49709663">
