@@ -6,9 +6,14 @@
 
 💻 I’m a software engineer, currently working full-time as an iOS developer (and have been doing so non-stop from 2016). On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
 
-In my spare time I like building POCs and libraries for iOS and Swift development. Check them out:
+In my spare time I maintain a couple of apps of mine. I also like building POCs and libraries for iOS and Swift development. Check them out:
 
-### POCs
+### 📲 Apps
+
+- [MatchWords](https://apps.apple.com/uy/app/matchwords-build-words/id1612434602)
+- [MyStickers](https://apps.apple.com/uy/app/mystickers/id884352968)
+
+### 🧪 POCs
 
 - [CriptoWatcher](https://github.com/mchirino89/CriptoWatcher)
 - [Rick and Morty wiki](https://github.com/mchirino89/RickAndMorty)
@@ -84,7 +89,7 @@ Need a copy of my résumé? No problem: <a href="https://geekingwithmauri.com/as
 
 ## Want to contribute/donate/help me keep going?
 
-<a href="https://www.buymeacoffee.com/geekingwithmauri"> 
+<a href="https://www.buymeacoffee.com/maurigeek"> 
     <img align="left" 
     src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
     height="50" 
