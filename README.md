@@ -4,7 +4,7 @@
 
 ## What do I do?
 
-💻 I’m a software engineer, currently working full-time as an iOS developer (and have been doing so non-stop from 2016). On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
+💻 I’m a software engineer by training. I've been coding for a living since 2013. Currently I work full-time as an iOS developer (and have been doing so non-stop from 2016). On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
 
 In my spare time I maintain a couple of apps of mine. I also like building POCs and libraries for iOS and Swift development. Check them out:
 
@@ -24,6 +24,8 @@ In my spare time I maintain a couple of apps of mine. I also like building POCs 
 - [MauriUtils](https://github.com/geekingwithmauri/MauriUtils): A set of canned helpers for Swift's rapid development and testing
 - [MauriNet](https://github.com/geekingwithmauri/MauriNet): Wrapper for Swift's network handling
 - [MauriKit](https://github.com/geekingwithmauri/MauriKit): Helpers and wrappers for code only UI iOS development in Swift
+- [NotificationsEngine](https://github.com/GeekingwithMauri/NotificationsEngine): Notifications wrapper to preserve your codebase dependency free from 3rd-party vendors.
+- [TrackingEngine](https://github.com/GeekingwithMauri/TrackingEngine): Tracking wrapper to preserve your codebase dependency free from 3rd-party vendors.
 
 ### 📝 Writing
 
