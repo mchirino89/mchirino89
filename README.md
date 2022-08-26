@@ -82,8 +82,8 @@ After family responsibilities and work, I like keeping myself busy coding 🤓
         <img src="https://img.shields.io/twitter/follow/mchirino89?logo=twitter&style=for-the-badge" 
         alt="mchirino89" />
   </a>
-
-- [![Linkedin: mauriciochirino](https://img.shields.io/badge/-Mauricio%20Chirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciochirino/)](https://www.linkedin.com/in/mauriciochirino/)
+  
+- [![Linkedin: mauriciochirino](https://img.shields.io/badge/-Mauricio%20Chirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mauriciochirino)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mauriciochirino)
 
 - [![Jekyll: geekingwithmauri.com](https://img.shields.io/badge/-Geeking%20with%20Mauri-red?style=flat-square&logo=Jekyll&logoColor=white&link=https://geekingwithmauri.com)](https://geekingwithmauri.com)
 
