@@ -4,11 +4,9 @@
 
 ## What do I do?
 
-💻 I’m a software engineer by training. I've been coding for a living since 2013. Currently I work full-time as an iOS developer (and have been doing so non-stop from 2016). On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
+💻 I’m a software engineer by training. I've been coding for a living since 2013. I balance my time between [Bitso](https://bitso.com) and an [AI masters degree](https://fi.ort.edu.uy/master-en-inteligencia-artificial) I'm pursing in the ORT university here a Montevideo. On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
 
-In my spare time I maintain a couple of apps of mine. I also like building POCs and libraries for iOS and Swift development. Check them out:
-
-### 📲 Apps
+### 📲 My apps
 
 - [MatchWords](https://apps.apple.com/uy/app/matchwords-build-words/id1612434602)
 - [MyStickers](https://apps.apple.com/uy/app/mystickers/id884352968)
@@ -73,7 +71,7 @@ After family responsibilities and work, I like keeping myself busy coding 🤓
 
 <p>
     <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mchirino89&" alt="mchirino89" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mchirino89" alt="mchirino89" />
 </p>
 
 ## 📫 How to reach me: 
