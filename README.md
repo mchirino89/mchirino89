@@ -1,15 +1,25 @@
+------
+
 ![banner](banner.jpg)
 
 # Hi there. I'm Mauricio Chirino, but feel free to call me _Mauri_ 😄
 
 ## What do I do?
 
-💻 I’m a software engineer by training. I've been coding for a living since 2013. I balance my time between [Bitso](https://bitso.com) and an [AI masters degree](https://fi.ort.edu.uy/master-en-inteligencia-artificial) I'm pursing in the ORT university here a Montevideo. On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
+💻 I’m a software engineer by training. I've been coding for a living since 2013. I balance my time between [Bitso](https://bitso.com) and an [AI masters degree](https://fi.ort.edu.uy/master-en-inteligencia-artificial) I'm pursing in ORT university here at Montevideo. On my spare time I like blogging, riding bike, reading ([A LOT](https://www.goodreads.com/user/show/95758480-mauricio-chirino)) and cooking 👨🏽‍🍳
+
+### Tech I work with
+
+- Swift: native iOS development. My strong suite 📱
+- Java: a bit of BE development I've been recently dipping my toe recently ☕️
+- Automation: Maestro is my go-to for E2E hands-on integration test suite 
+- CI: Github actions all the way 🚀
+- AI: Cursor & Claude code are my partners in crime here 🦾
 
 ### 📲 My apps
 
-- [MatchWords](https://apps.apple.com/uy/app/matchwords-build-words/id1612434602)
-- [MyStickers](https://apps.apple.com/uy/app/mystickers/id884352968)
+- [MatchWords](https://apps.apple.com/uy/app/matchwords-build-words/id1612434602): use your wit to assemble words before time runs out!
+- [MyStickers](https://apps.apple.com/uy/app/mystickers/id884352968): never lose track of your missing stickers again!
 
 ### 🧪 POCs
 
@@ -27,7 +37,7 @@
 
 ### 📝 Writing
 
-I post regularly on [GeekingwithMauri.com](https://geekingwithmauri.com) and sometimes on [Medium](https://mchirino89.medium.com).
+#### [My blog](https://geekingwithmauri.com).
 
 <!-- BLOG:START -->
 - [Guarantee localization with SwitfUI](https://geekingwithmauri.com/swift/localizationWithSwiftUI.html)
@@ -36,8 +46,9 @@ I post regularly on [GeekingwithMauri.com](https://geekingwithmauri.com) and som
 - [📖 Books I’ve read: Driving Technical Change &lpar;by Terrence Ryan&rpar;](https://geekingwithmauri.com/books/drivingTechChange.html)
 - [Skills for succeeding on software development](https://geekingwithmauri.com/work/succeedingAtDevelopment.html)
 <!-- BLOG:END -->
+
+#### [Medium](https://mchirino89.medium.com)
 <!-- MEDIUM:START -->
-- [Screenshots para tus tests](https://medium.com/peya-tech/screenshots-para-tus-tests-85598e4c5c4e?source=rss-8d0bd43333be------2)
 - [Books I’ve read: The Pragmatic Programmer &lpar;by David Thomas &amp; Andrew Hunt&rpar;](https://mchirino89.medium.com/books-ive-read-the-pragmatic-programmer-by-david-thomas-andrew-hunt-ec493738b6fa?source=rss-8d0bd43333be------2)
 - [Acing&lpar;ish&rpar; your iOS interview](https://mchirino89.medium.com/acing-ish-your-ios-interview-3b915e3b23d7?source=rss-8d0bd43333be------2)
 - [5 key points in enjoying writing code for a living](https://mchirino89.medium.com/5-key-points-in-enjoying-writing-code-for-a-living-58797faaa368?source=rss-8d0bd43333be------2)
@@ -53,26 +64,6 @@ I also like to contribute back to the awesome [Stackoverflow's community](https:
 - [Answer by Mauricio Chirino for Why does my app not display the alert to ask to access user&#39;s location?](https://stackoverflow.com/questions/55004779/why-does-my-app-not-display-the-alert-to-ask-to-access-users-location/55007753#55007753)
 - [Answer by Mauricio Chirino for Swift: Cannot invoke &#39;filter&#39; with an argument list of type &#39;&lpar;&lpar;AnyObject&rpar; throws -&gt; Bool&rpar;&#39;](https://stackoverflow.com/questions/40902274/swift-cannot-invoke-filter-with-an-argument-list-of-type-anyobject-throws/54097170#54097170)
 <!-- STACKOVERFLOW:END -->
-
-### Github
-
-After family responsibilities and work, I like keeping myself busy coding 🤓
-
-<p>
-    <img align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchirino89&layout=compact&theme=dark&hide=objective-c" alt="mchirino89's top languages" />
-</p>
-
-<p>&nbsp;
-    <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=mchirino89&show_icons=true&locale=en&count_private=true&theme=dark&show_icons=true&layout=compact" 
-    alt="mchirino89" />
-</p>
-
-<p>
-    <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mchirino89" alt="mchirino89" />
-</p>
 
 ## 📫 How to reach me: 
  
@@ -104,4 +95,4 @@ Need a copy of my résumé? No problem: <a href="https://geekingwithmauri.com/as
     alt="become a patreon" />
 </a>
 
-
+------
