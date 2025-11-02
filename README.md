@@ -72,7 +72,7 @@ I also like to contribute back to the awesome [Stackoverflow's community](https:
         alt="mchirino89" />
   </a>
   
-- [![Linkedin: mauriciochirino](https://img.shields.io/badge/-Mauricio%20Chirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mauriciochirino)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mauriciochirino)
+- [![Linkedin: mchirino89](https://img.shields.io/badge/-Mauricio%20Chirino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mchirino89)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mauriciochirino)
 
 - [![Jekyll: geekingwithmauri.com](https://img.shields.io/badge/-Geeking%20with%20Mauri-red?style=flat-square&logo=Jekyll&logoColor=white&link=https://geekingwithmauri.com)](https://geekingwithmauri.com)
 
